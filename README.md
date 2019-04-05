@@ -1,11 +1,14 @@
 # Sudoku
+
+## Introduction
+
 This game is written with a simple logic to play in your **terminal** when you are bored.
 
 * No gems required
 * No GUI
 * Just change space value in code, to increase or decrease the difficulty level.
 
-# Building locally
+## Building locally
 
 Prerequisites:
 * Ruby (Any version)
@@ -15,7 +18,7 @@ $ git clone https://github.com/nayeemnayyu/sudoku.git
 $ cd sudoku
 $ ruby sudoku.rb
 ```
-# Interface
+## Interface
 
 ```
        1  2  3   4  5  6   7  8  9  
