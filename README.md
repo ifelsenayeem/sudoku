@@ -14,9 +14,11 @@ Prerequisites:
 * Ruby (Any version)
 
 ```
-$ git clone https://github.com/nayeemnayyu/sudoku.git
-$ cd sudoku
-$ ruby sudoku.rb
+git clone https://github.com/nayeemnayyu/sudoku.git
+
+cd sudoku
+
+ruby sudoku.rb
 ```
 ## Interface
 
