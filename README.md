@@ -1,7 +1,5 @@
 # Sudoku
 
-## Introduction
-
 This game is written with a simple logic to play in your **terminal** when you are bored.
 
 * No gems required
